@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="sky_reader">
+    <serverData>
+      <paths name="sky_reader">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="123" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
